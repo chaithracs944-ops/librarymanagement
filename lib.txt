@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
 there are 4 books
+=======
+hello anu
+hello everyone
+>>>>>>> developer
